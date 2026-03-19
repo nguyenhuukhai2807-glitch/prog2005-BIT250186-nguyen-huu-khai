@@ -1,0 +1,4 @@
+chuoi = input("Nhập chuỗi: ")
+ky_tu = input("Nhập ký tự cần đếm: ")
+
+print(f"Ký tự '{ky_tu}' xuất hiện {chuoi.count(ky_tu)} lần trong chuỗi.")
